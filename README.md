@@ -304,9 +304,9 @@ This repository includes complete workshop materials for teaching digital twin a
 
 | Document | Description |
 |----------|-------------|
-| [Prework Instructions](Docs/Workshop_Prework_Instructions.docx) | Software setup checklist |
-| [Instruction Manual](Docs/Workshop_Instruction_Manual.docx) | Step-by-step workshop guide |
-| [Colab Notebook](Notebooks/Electric_Propulsion_Fault_Detection_Workshop.ipynb) | Interactive ML tutorial |
+| [Prework Instructions] | Software setup checklist |
+| [Instruction Manual] | Step-by-step workshop guide |
+| [Colab Notebook]| Interactive ML tutorial |
 
 ### Workshop Agenda
 1. **Part 1**: Build Simscape model (45 min)
