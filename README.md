@@ -308,7 +308,7 @@ This repository includes complete workshop materials for teaching digital twin a
 | [Instruction Manual](https://github.com/nehasardesai/Electric-Propulsions-System-Digital-Twin/blob/main/Workshop_Prework_Instructions.docx) | Step-by-step workshop guide |
 
 ### Workshop Agenda
-1. **Part 1**: Build Simscape model (45 min)
+1. **Part 1**: Build Simscape model (90 min)
 2. **Part 2**: Generate fault data (30 min)
 3. **Part 3**: Train ML classifier (45 min)
 4. **Demo**: Interactive fault prediction (15 min)
