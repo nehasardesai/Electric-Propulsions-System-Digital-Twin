@@ -304,9 +304,8 @@ This repository includes complete workshop materials for teaching digital twin a
 
 | Document | Description |
 |----------|-------------|
-| [[Prework Instructions]](https://github.com/nehasardesai/Electric-Propulsions-System-Digital-Twin/blob/main/Workshop_Prework_Instructions.docx) | Software setup checklist |
-| [Instruction Manual] | Step-by-step workshop guide |
-| [Colab Notebook]| Interactive ML tutorial |
+| [Prework Instructions](https://github.com/nehasardesai/Electric-Propulsions-System-Digital-Twin/blob/main/Workshop_Prework_Instructions.docx) | Software setup checklist |
+| [Instruction Manual](https://github.com/nehasardesai/Electric-Propulsions-System-Digital-Twin/blob/main/Workshop_Prework_Instructions.docx) | Step-by-step workshop guide |
 
 ### Workshop Agenda
 1. **Part 1**: Build Simscape model (45 min)
